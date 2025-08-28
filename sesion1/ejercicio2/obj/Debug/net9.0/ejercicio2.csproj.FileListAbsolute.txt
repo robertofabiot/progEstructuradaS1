@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\bin\Debug\net9.0\ejercicio2.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\bin\Debug\net9.0\ejercicio2.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\bin\Debug\net9.0\ejercicio2.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\bin\Debug\net9.0\ejercicio2.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\bin\Debug\net9.0\ejercicio2.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\refint\ejercicio2.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ejercicio2.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio2\obj\Debug\net9.0\ref\ejercicio2.dll
