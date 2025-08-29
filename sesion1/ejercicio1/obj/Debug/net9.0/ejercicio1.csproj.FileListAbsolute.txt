@@ -12,3 +12,4 @@ C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\seman
 C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio1\obj\Debug\net9.0\ejercicio1.pdb
 C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio1\obj\Debug\net9.0\ejercicio1.genruntimeconfig.cache
 C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio1\obj\Debug\net9.0\ref\ejercicio1.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion1\ejercicio1\obj\Debug\net9.0\ejercicio1.sourcelink.json

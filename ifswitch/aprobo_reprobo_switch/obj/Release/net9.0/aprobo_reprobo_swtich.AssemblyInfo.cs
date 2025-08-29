@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aprobo_reprobo_swtich")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73d05d2d08cd59c75389d10fe70288ccff66f65c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8ab262e073eab89ebbc6ecbac8098502103fae4")]
 [assembly: System.Reflection.AssemblyProductAttribute("aprobo_reprobo_swtich")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aprobo_reprobo_swtich")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\bin\Debug\net9.0\carrera.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\bin\Debug\net9.0\carrera.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\bin\Debug\net9.0\carrera.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\bin\Debug\net9.0\carrera.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\bin\Debug\net9.0\carrera.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\refint\carrera.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\carrera.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\sesion3\carrera\obj\Debug\net9.0\ref\carrera.dll
