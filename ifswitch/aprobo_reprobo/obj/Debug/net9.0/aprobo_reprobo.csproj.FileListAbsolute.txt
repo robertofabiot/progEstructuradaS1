@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\bin\Debug\net9.0\aprobo_reprobo.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\bin\Debug\net9.0\aprobo_reprobo.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\bin\Debug\net9.0\aprobo_reprobo.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\bin\Debug\net9.0\aprobo_reprobo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\bin\Debug\net9.0\aprobo_reprobo.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\refint\aprobo_reprobo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\aprobo_reprobo.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo\obj\Debug\net9.0\ref\aprobo_reprobo.dll
