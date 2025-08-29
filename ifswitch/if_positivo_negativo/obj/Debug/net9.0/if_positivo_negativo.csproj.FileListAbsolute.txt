@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\bin\Debug\net9.0\if_positivo_negativo.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\bin\Debug\net9.0\if_positivo_negativo.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\bin\Debug\net9.0\if_positivo_negativo.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\bin\Debug\net9.0\if_positivo_negativo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\bin\Debug\net9.0\if_positivo_negativo.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\refint\if_positivo_negativo.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\if_positivo_negativo.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\if_positivo_negativo\obj\Debug\net9.0\ref\if_positivo_negativo.dll
