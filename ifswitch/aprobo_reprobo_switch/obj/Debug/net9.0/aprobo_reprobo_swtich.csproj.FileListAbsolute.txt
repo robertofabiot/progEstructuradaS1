@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\bin\Debug\net9.0\aprobo_reprobo_swtich.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\bin\Debug\net9.0\aprobo_reprobo_swtich.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\bin\Debug\net9.0\aprobo_reprobo_swtich.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\bin\Debug\net9.0\aprobo_reprobo_swtich.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\bin\Debug\net9.0\aprobo_reprobo_swtich.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\refint\aprobo_reprobo_swtich.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\aprobo_reprobo_swtich.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aprobo_reprobo_switch\obj\Debug\net9.0\ref\aprobo_reprobo_swtich.dll
