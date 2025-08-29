@@ -1,0 +1,15 @@
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\bin\Debug\net9.0\aniobisiesto.exe
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\bin\Debug\net9.0\aniobisiesto.deps.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\bin\Debug\net9.0\aniobisiesto.runtimeconfig.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\bin\Debug\net9.0\aniobisiesto.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\bin\Debug\net9.0\aniobisiesto.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.AssemblyInfoInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.AssemblyInfo.cs
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.csproj.CoreCompileInputs.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.sourcelink.json
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\refint\aniobisiesto.dll
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.pdb
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\aniobisiesto.genruntimeconfig.cache
+C:\Users\rfter\Documents\Archivos UAM\SemestreII\Programacion_Estructurada\semana1\trabajosSemana1\ifswitch\aniobisiesto\obj\Debug\net9.0\ref\aniobisiesto.dll
